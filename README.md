@@ -2,12 +2,6 @@
 
 This is a beginner-friendly, console-based restaurant ordering system developed in Python. It allows users to view a predefined menu, select items to order, and calculates the total bill based on their choices.
 
-**Key Features:**
-Simple and interactive user interface via console
-Predefined menu using Python dictionaries
-Real-time order validation and confirmation
-Total bill calculation for up to two items
-
 **How It Works:**
 
 1. The user is welcomed and shown a list of available menu items with prices.
